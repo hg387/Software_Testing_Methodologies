@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.drexel.se320.SeleniumTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-12-03T20:34:06" hostname="DESKTOP-2OTUL4T" time="75.411">
+  <properties/>
+  <testcase name="testDeleteBothItems()" classname="edu.drexel.se320.SeleniumTest" time="11.544"/>
+  <testcase name="testDeleteSecondItemOutOfTwo()" classname="edu.drexel.se320.SeleniumTest" time="8.132"/>
+  <testcase name="testDeleteFirstItemOutofTwo()" classname="edu.drexel.se320.SeleniumTest" time="8.025"/>
+  <testcase name="testControlOneMinus()" classname="edu.drexel.se320.SeleniumTest" time="6.853"/>
+  <testcase name="testAddOneItem()" classname="edu.drexel.se320.SeleniumTest" time="7.497"/>
+  <testcase name="testCheckPlusMinusAfterAddingOneItem()" classname="edu.drexel.se320.SeleniumTest" time="8.441"/>
+  <testcase name="testAddTwoItem()" classname="edu.drexel.se320.SeleniumTest" time="8.538"/>
+  <testcase name="testDeleteOneItem()" classname="edu.drexel.se320.SeleniumTest" time="7.402"/>
+  <testcase name="testAddItemAfterDeletionOfFirstItemOutOfTwo()" classname="edu.drexel.se320.SeleniumTest" time="8.97"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[1607027647167	geckodriver	INFO	Listening on 127.0.0.1:7783
+1607027647962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hg387\\AppData\\Local\\Temp\\rust_mozprofileAuALwV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607027653798	Marionette	INFO	Listening on port 51274
+1607027654319	Marionette	WARN	TLS certificate errors will be ignored for this session
+Dec 03, 2020 3:34:14 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1607027656797	Marionette	INFO	Stopped listening on port 51274
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607027658084	geckodriver	INFO	Listening on 127.0.0.1:9665
+1607027658549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hg387\\AppData\\Local\\Temp\\rust_mozprofileYKDVTp"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607027662698	Marionette	INFO	Listening on port 51321
+1607027662731	Marionette	WARN	TLS certificate errors will be ignored for this session
+Dec 03, 2020 3:34:22 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1607027664807	Marionette	INFO	Stopped listening on port 51321
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607027666137	geckodriver	INFO	Listening on 127.0.0.1:37857
+1607027666647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hg387\\AppData\\Local\\Temp\\rust_mozprofileLSBFlU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607027670831	Marionette	INFO	Listening on port 51366
+1607027670906	Marionette	WARN	TLS certificate errors will be ignored for this session
+Dec 03, 2020 3:34:30 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1607027672942	Marionette	INFO	Stopped listening on port 51366
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607027674215	geckodriver	INFO	Listening on 127.0.0.1:10725
+1607027674682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hg387\\AppData\\Local\\Temp\\rust_mozprofilewXVphM"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607027678368	Marionette	INFO	Listening on port 51414
+1607027678872	Marionette	WARN	TLS certificate errors will be ignored for this session
+Dec 03, 2020 3:34:38 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1607027679736	Marionette	INFO	Stopped listening on port 51414
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607027681077	geckodriver	INFO	Listening on 127.0.0.1:22659
+1607027681547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hg387\\AppData\\Local\\Temp\\rust_mozprofilejZ2ZbO"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607027685705	Marionette	INFO	Listening on port 51462
+1607027685914	Marionette	WARN	TLS certificate errors will be ignored for this session
+Dec 03, 2020 3:34:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1607027687020	Marionette	INFO	Stopped listening on port 51462
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607027688592	geckodriver	INFO	Listening on 127.0.0.1:30038
+1607027689127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hg387\\AppData\\Local\\Temp\\rust_mozprofilegCgbPf"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607027693565	Marionette	INFO	Listening on port 51512
+1607027693957	Marionette	WARN	TLS certificate errors will be ignored for this session
+Dec 03, 2020 3:34:54 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1607027695648	Marionette	INFO	Stopped listening on port 51512
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607027697022	geckodriver	INFO	Listening on 127.0.0.1:18777
+1607027697476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hg387\\AppData\\Local\\Temp\\rust_mozprofile1K2axB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607027701833	Marionette	INFO	Listening on port 51566
+1607027702313	Marionette	WARN	TLS certificate errors will be ignored for this session
+Dec 03, 2020 3:35:02 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1607027704246	Marionette	INFO	Stopped listening on port 51566
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607027705571	geckodriver	INFO	Listening on 127.0.0.1:29793
+1607027706014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hg387\\AppData\\Local\\Temp\\rust_mozprofileqJ2X8t"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607027709783	Marionette	INFO	Listening on port 51615
+1607027710192	Marionette	WARN	TLS certificate errors will be ignored for this session
+Dec 03, 2020 3:35:10 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1607027711851	Marionette	INFO	Stopped listening on port 51615
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607027712971	geckodriver	INFO	Listening on 127.0.0.1:19622
+1607027713407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hg387\\AppData\\Local\\Temp\\rust_mozprofileQDAC82"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607027717755	Marionette	INFO	Listening on port 51662
+1607027718223	Marionette	WARN	TLS certificate errors will be ignored for this session
+Dec 03, 2020 3:35:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1607027720458	Marionette	INFO	Stopped listening on port 51662
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+]]></system-err>
+</testsuite>
