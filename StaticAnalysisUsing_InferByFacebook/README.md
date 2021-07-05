@@ -40,6 +40,7 @@ account, it should allow you to save your own version of the Infer
 project, which you can then copy into local files to submit your
 homework.
 
+
 o If you want to use CodeBoard, but don't want to make an account, you
 could do everything as a modification of the demo project, and just be
 sure to save your work locally on a regular basis. 2. You can install
