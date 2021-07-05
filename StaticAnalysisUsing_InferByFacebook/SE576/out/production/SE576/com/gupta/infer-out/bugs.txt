@@ -1,0 +1,13 @@
+Found 1 issue
+
+FalsePositive.java:23: error: NULL_DEREFERENCE
+  object `list` last assigned on line 11 could be null and is dereferenced at line 23.
+  21.           }
+  22.   
+  23. >         int count  = list.size();
+  24.       }
+  25.   }
+
+Summary of the reports
+
+  NULL_DEREFERENCE: 1
